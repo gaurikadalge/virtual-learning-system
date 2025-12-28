@@ -1,0 +1,3 @@
+Which symbol is used for comments in Python?|#|//|/* */|--|a
+What function prints output to the console in Python?|print|echo|cout|println|a
+Which keyword starts a for-loop in Python?|for|loop|foreach|iterate|a

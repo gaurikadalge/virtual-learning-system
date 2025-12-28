@@ -1,0 +1,3 @@
+Variables and Data Types
+C++ has built-in types like int, float, double, char, bool and user-defined types.
+This lesson explains variable declaration and initialization.

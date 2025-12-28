@@ -1,0 +1,2 @@
+Python Introduction
+Python is an interpreted, high-level language. This lesson introduces syntax and running scripts.

@@ -1,0 +1,3 @@
+What is the correct extension for C++ source files?|.cpp|.py|.java|.txt|a
+Which header is typically used for input/output in C++?|iostream|stdio.h|string|vector|a
+Which keyword is used for defining a class in C++?|class|struct|object|define|a

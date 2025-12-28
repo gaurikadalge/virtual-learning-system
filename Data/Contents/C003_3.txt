@@ -1,0 +1,3 @@
+Normalization Basics
+Discuss 1NF, 2NF, 3NF and why normalization helps reduce redundancy.
+

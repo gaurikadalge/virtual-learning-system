@@ -1,0 +1,2 @@
+Data types in Python
+Numbers, strings, lists, dictionaries, tuples and basic operations are explained here.

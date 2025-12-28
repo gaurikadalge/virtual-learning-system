@@ -1,0 +1,3 @@
+Introduction to C++
+C++ is a general-purpose programming language supporting procedural, object-oriented, and generic programming.
+This lesson covers basic overview, history, and usage.

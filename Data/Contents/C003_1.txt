@@ -1,0 +1,2 @@
+Relational Model
+Basics of tables, rows, columns and simple relationships between entities.

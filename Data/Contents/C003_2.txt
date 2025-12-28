@@ -1,0 +1,3 @@
+SQL Introduction
+Basic SQL: SELECT, INSERT, UPDATE, DELETE. Examples with simple tables.
+
